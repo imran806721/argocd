@@ -11,7 +11,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/daws-90s/argocd.git
+    repoURL: https://github.com/imran806721/argocd.git
     targetRevision: main
     path: rbac
 
